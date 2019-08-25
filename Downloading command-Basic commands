@@ -1,0 +1,33 @@
+Command: show databases
+By default all databases are shown
+Command: create database _______;
+Createing new database
+Command: use _________(database name);
+To use a particular database
+Command:show database;
+Command:create table ____(tablename);
+Command:disc _______(table name);
+Metadata can be seen
+Command:insert into _____(table name) values;
+To enter the value for each table
+Command:select * from ____(table name);
+To view the content 
+Command:select command
+Select the particular attribute
+Command:update _____ set name where usn;
+To upadte the value of particular attribute
+Command : alter
+To alter the attribute name
+Command: modfiy
+Modfiy the values
+Command: average
+To get the avarge values
+Command: delete
+To delete value from particular attribute
+Command: order
+Arrange in ascending/ descending order
+Command: group command
+To get individual column values
+Key
+Primary key:only one key can become primary key
+Foreign key:which is derived from the primary key( base table)
